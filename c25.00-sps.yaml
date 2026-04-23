@@ -1,7 +1,7 @@
 # Default config file for SPS models. 
 
 # CLOUDY VERSION
-cloudy_version: c23.01
+cloudy_version: c25.00
 
 # ABUNDANCE PATTERN AND DEPLETION
 reference_abundance: GalacticConcordance # the reference abundance pattern to assume
