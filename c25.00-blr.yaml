@@ -1,7 +1,7 @@
 # Default config file for BLR models. 
 
 # CLOUDY VERSION
-cloudy_version: c23.01
+cloudy_version: c25.00
 
 # ABUNDANCE PATTERN AND DEPLETION
 metallicities: [0.0001, 0.001, 0.01]
